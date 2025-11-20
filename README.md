@@ -13,3 +13,8 @@ set antialias, 2
 set ray_shadow, off
 ray 2000
 ```
+
+sele Stick style atom
+```
+select stick_atoms, rep sticks
+```
