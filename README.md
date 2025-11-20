@@ -1,1 +1,14 @@
 # pymol_setting
+
+## Cartoon Style
+
+set transparency, 0.8
+set specular, 0
+set ambient, 0.35
+set cartoon_highlight_color, gray70
+set ray_trace_depth_factor, 1
+set ray_trace_disco_factor, 1
+set ray_trace_mode, 1
+set antialias, 2
+set ray_shadow, off
+ray 2000
